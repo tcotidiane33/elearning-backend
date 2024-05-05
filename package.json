@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.6",
+    "axios": "^1.1.2",
+    "bootstrap": "^5.2.3",
+    "laravel-vite-plugin": "^0.7.5",
+    "sass": "^1.56.1",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.2"
+  },
+  "name": "academix-learning-system-backend",
+  "description": "## What is it? Academix is a comprehensive online learning platform that offers a wide range of courses to enhance your knowledge and skills. Explore our platform and sign up now to start your learning journey.",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
+}
